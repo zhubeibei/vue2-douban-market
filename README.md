@@ -1,4 +1,4 @@
-# vue2-douban-market 
+# vue2-douban-market
 这是基于vue2 + vue-router2 + vuex + axios 仿(豆瓣市集)的一个vue全家桶入门Demo！
 
 
@@ -41,7 +41,7 @@ npm run build
 
 ### 技术栈
 
-在此DEMO中使用了一下技术
+在此DEMO中使用了一下技术1
 * vue2
 * vue-router2
 * vuex
