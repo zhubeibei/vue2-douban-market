@@ -1,4 +1,4 @@
-# vue2-douban-market
+# vue2-douban-market123
 这是基于vue2 + vue-router2 + vuex + axios 仿(豆瓣市集)的一个vue全家桶入门Demo！
 
 
