@@ -1,5 +1,5 @@
 <template>
-	<h1 class="_404">^_^ 404 ,NOT FOUND !</h1>
+	<h1 class="_404">^_^ 404 ,NOT FOUND !!!!</h1>
 </template>
 <style scoped>
 	._404{
